@@ -64,7 +64,7 @@ Key points
 
 Full terms
 
-\- This summary is not the License Agreement. For full terms, pricing, and to obtain a commercial license, contact: \[CONTACT EMAIL OR SALES PORTAL URL].
+\- This summary is not the License Agreement. For full terms, pricing, and to obtain a commercial license, contact: \[thomaspricetj@GMAIL.COM].
 
 
 
