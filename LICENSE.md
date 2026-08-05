@@ -6,7 +6,7 @@ Copyright (c) \[YEAR] \[RIGHTS HOLDER NAME]. All rights reserved.
 
 
 
-This repository contains proprietary software and is NOT open source. Use, copying, modification, distribution, hosting, deployment, or any other exploitation of this software is strictly prohibited unless you have a valid, written commercial license executed with \[RIGHTS HOLDER NAME] (the "Licensor").
+This repository contains proprietary software and is NOT open source. Use, copying, modification, distribution, hosting, deployment, or any other exploitation of this software is strictly prohibited unless you have a valid, written commercial license executed with \[Thomasa Price] (the "Licensor").
 
 
 
