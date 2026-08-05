@@ -2,7 +2,7 @@ LICENSE SUMMARY — DELTA INFERENCE ENGINE
 
 
 
-Copyright (c) \[YEAR] \[RIGHTS HOLDER NAME]. All rights reserved.
+Copyright (c) \[2026] \[Thomas Price]. All rights reserved.
 
 
 
